@@ -4,7 +4,9 @@
   margin-left: 70px;
 
 }
-
+.one{
+  color:black;
+}
 #pictures1{
 
   margin-top: 70px;
@@ -33,3 +35,35 @@
   background-size: cover;
   background-position: center;
  }
+
+
+
+#fb:hover{
+  background-color:  #3B5998;
+}
+
+#twt:hover{
+  background-color: #55ACEE;
+}
+
+#snp:hover{
+  background-color: #fffc00;
+}
+
+#inst:hover{
+  background-color: #cb2027;
+}
+.search-container{
+  margin-top:13px;
+}
+
+
+.fa-search{
+  background-color: transparent;
+  outline:none;
+
+}
+
+#txt{
+  line-height: 0;
+}

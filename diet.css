@@ -6,3 +6,32 @@ body {
   background-position: center;
   font-size: 20px;
 }
+#fb:hover{
+  background-color:  #3B5998;
+}
+
+#twt:hover{
+  background-color: #55ACEE;
+}
+
+#snp:hover{
+  background-color: #fffc00;
+}
+
+#inst:hover{
+  background-color: #cb2027;
+}
+.search-container{
+  margin-top:13px;
+}
+
+
+.fa-search{
+  background-color: transparent;
+  outline:none;
+
+}
+
+#txt{
+  line-height: 0;
+}
