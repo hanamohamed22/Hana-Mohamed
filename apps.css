@@ -1,5 +1,8 @@
-.Apps{
-  background-image: url();
+body{
+  background-image: url(bg.jpg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
   font-family: chaparral;
   font-size: 20px;
 }
