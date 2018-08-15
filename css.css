@@ -1,1 +1,35 @@
+#pictures{
 
+  margin-top: 70px;
+  margin-left: 70px;
+
+}
+
+#pictures1{
+
+  margin-top: 70px;
+  margin-left: 70px;
+
+}
+#workout{
+  width:300;
+  height:300;
+  }
+
+#eventa{ width: 300;
+         height :300;
+       }
+
+#trackingapps{
+         width:300;
+         height:300;
+         }
+
+#diets{ width: 300;
+                height :300;
+              }
+.home { background-image: url(M.jpg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+ }
