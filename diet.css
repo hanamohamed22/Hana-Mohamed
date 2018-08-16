@@ -1,5 +1,5 @@
 body {
-  background-image: url(bgfruits.jpg);
+  background-image: url("bgfruits.jpg");
   font-family: chaparral;
   background-repeat: none;
   background-size: cover;
@@ -34,4 +34,26 @@ body {
 
 #txt{
   line-height: 0;
+}
+.carousel-inner img {
+    width: 50%;
+    heigh: 50%;
+  }
+  .para{
+    font-size: 20px;
+  }
+  .parag{
+    font-size: 20px;
+  }
+  .paragr{
+    font-size: 20px;
+  }
+  .paragra{
+    font-size: 20px;
+  }
+#ff{
+  font-size: 40px;
+}
+#FF{
+  font-size: 30px;
 }
